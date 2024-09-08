@@ -1,6 +1,6 @@
 - 👋 Olá, sou a Beatriz, mas podem me chamar de Bia, se preferirem.
 - 👀 Eu estou interessada em expandir meus conhecimentos e em compartilhar o que aprendi com outras pessoas.
-- 🌱 Estou, atualmente, me graduando na universidade federal de São Paulo (UNIFESP)- cursando Bacharelado em Ciência e Tecnologi e, ao mesmo tempo, tendo a oportunidade de estudar Ciência da Computação na mesma instituição, uma vez que a faculdade permite essa combinação.
+- 🌱 Estou, atualmente, me graduando na universidade federal de São Paulo (UNIFESP)- cursando Bacharelado em Ciência e Tecnologia e, ao mesmo tempo, tendo a oportunidade de estudar Ciência da Computação na mesma instituição, uma vez que a faculdade permite essa combinação.
 - 💞️ Espero colaborar com grandes empresas de desenvolvimento tecnológico no futuro próximo e participar de projetos que contribuam para a sociedade.
 - 📫  Para mais informações, por favor, entre em contato pelo e-mail a seguir: beatrizf.mor@gmail.com
 
